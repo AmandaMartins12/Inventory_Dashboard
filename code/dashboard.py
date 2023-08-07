@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# Dados de exemplo (você pode substituir isso pelos seus próprios dados)
+# Dados de exemplo 
 data = {
     'Produto': ['Produto A', 'Produto B', 'Produto C', 'Produto D', 'Produto E'],
     'Quantidade': [25, 12, 8, 3, 30],
